@@ -1,0 +1,9 @@
+.responsive-hr {
+    display: block; /* Default display for larger screens */
+}
+
+@media (max-width: 768px) {
+    .responsive-hr {
+        display: none; /* Hide hr for screens smaller than 768px */
+    }
+}

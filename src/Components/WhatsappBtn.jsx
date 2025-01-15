@@ -3,7 +3,7 @@ import './WhatsappBtn.css'
 
 function WhatsappBtn() {
 
-    const whatsappNumber = "919182059470";
+    const whatsappNumber = "917416683038";
     const handleClick = () => {
         const whatsappLink = `https://wa.me/${whatsappNumber}`;
         window.location.href = whatsappLink;
