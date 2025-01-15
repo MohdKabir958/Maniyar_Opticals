@@ -21,7 +21,7 @@ function Home() {
                     <div class="container px-5 py-24 mx-auto">
                         <div class="flex flex-wrap -m-4">
                         {/* Maniyar_Opt\public\frame-img_home\deena-englard-RJrCj87zPJc-unsplash. */}
-                            <FrameCard src="/public/frame-img_home/deena-englard-RJrCj87zPJc-unsplash.jpg" loading="lazy" />
+                            <FrameCard src="/frame-img_home/deena-englard-RJrCj87zPJc-unsplash.jpg" loading="lazy" />
                             <FrameCard src="/frame-img_home/eyekeeper-eyekeeper-3EYrYC5xavg-unsplash.jpg" loading="lazy" />
                             <FrameCard src="/frame-img_home/eyekeeper-eyekeeper-bMJiIRCfAB0-unsplash.jpg" loading="lazy" />
                             <FrameCard src="/frame-img_home/julie-molliver-J7pWvj-Tqmo-unsplash.jpg" loading="lazy" />
