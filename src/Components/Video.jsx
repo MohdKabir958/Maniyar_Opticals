@@ -13,7 +13,7 @@ function Video({
         <hr className='responsive-hr w-screen text-black border-red mt-10' />
             <section className={`${className} text-white`}>
                 <div className='container'>
-                    <video src={src} loop muted autoPlay width="100%" loading={loading}></video>
+                    <video className='md:max-w-full' src={src} loop muted autoPlay width="100%" loading={loading}></video>
                 </div>
                 <hr className='responsive-hr w-screen text-black border-red mt-10' />
                 <h1 className='text-4xl text-center mt-8'>{text1}</h1>
