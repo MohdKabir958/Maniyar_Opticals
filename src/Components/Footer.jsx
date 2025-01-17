@@ -91,7 +91,7 @@ function Footer() {
                                         class="flex mx-auto text-white bg-indigo-500 border-0 py-2 px-8 focus:outline-none hover:bg-indigo-600 rounded text-lg">Submit</button>
                                 </div>
                                 <div class="p-2 w-full pt-8 mt-8 border-t border-white-200 text-center">
-                                    <a class="text-indigo-500">mz137456@gmail.com</a>
+                                    <a class="text-indigo-500">samkingx8@gmail.com</a>
                                     <p class="leading-normal my-5">Abdul Samad
                                     </p>
                                     <span class="inline-flex">
