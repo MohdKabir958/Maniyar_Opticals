@@ -16,7 +16,7 @@ function Header() {
           <a className="flex title-font font-medium items-center text-gray-900 mb-4 md:mb-0">
             <Logo />
           </a>
-          <nav className={`md:ml-auto md:mr-auto cursor-pointer text-3xl gap-3 flex flex-wrap items-center justify-center ${isOpen ? 'block' : 'hidden'} md:flex`}>
+          <nav className={`md:ml-auto md:mr-auto cursor-pointer text-2xl gap-3 flex flex-wrap items-center justify-center transition-all duration-75 ease-in-out ${isOpen ? 'max-h-96 opacity-100' : 'max-h-0 opacity-0'} md:max-h-full md:opacity-100`}>
             <a className="mr-5 text-white" href="#home">Home</a>
             <a className="mr-5 text-white" href="#frames">Frames</a>
             <a className="mr-5 text-white" href="#Sunglasses">Sun Glasses</a>
